@@ -14,3 +14,24 @@
 
 ### run the fike that called create_db first then run.py all of that after you install python env and the flask and sqlite ..
 
+# The project OverView 
+
+### the main page 
+![main](project/mainPage.png)
+
+### the login page 
+![login](project/loginPage.png)
+
+### the login page 
+![sign up](project/signUP.png)
+
+### the User Page 
+![user](project/userPage.png)
+
+### add item to sell in the store 
+![back item](project/addItemTosell.png)
+
+### remove item from your cart 
+![remove from cart](project/backItemtoStore.png)
+
+
